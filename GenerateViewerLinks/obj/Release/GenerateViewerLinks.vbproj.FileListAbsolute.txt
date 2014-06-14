@@ -1,0 +1,11 @@
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\GenerateViewerLinks.exe.config
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\GenerateViewerLinks.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\GenerateViewerLinks.pdb
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\GenerateViewerLinks.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\bin\Release\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\obj\Release\GenerateViewerLinks.Resources.resources
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\obj\Release\GenerateViewerLinks.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\obj\Release\GenerateViewerLinks.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\obj\Release\GenerateViewerLinks.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\GenerateViewerLinks\obj\Release\GenerateViewerLinks.pdb

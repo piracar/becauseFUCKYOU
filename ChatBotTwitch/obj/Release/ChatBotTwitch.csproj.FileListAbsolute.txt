@@ -1,0 +1,8 @@
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\bin\Release\ChatBotTwitch.exe.config
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\bin\Release\ChatBotTwitch.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\bin\Release\ChatBotTwitch.pdb
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\bin\Release\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\bin\Release\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\obj\Release\ChatBotTwitch.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\obj\Release\ChatBotTwitch.pdb
+C:\Users\Server\Desktop\TwitchViewBot-master\ChatBotTwitch\obj\Release\ChatBotTwitch.csprojResolveAssemblyReference.cache

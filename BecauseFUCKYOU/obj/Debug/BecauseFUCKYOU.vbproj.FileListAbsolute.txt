@@ -1,0 +1,14 @@
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\BecauseFUCKYOU.exe.config
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\BecauseFUCKYOU.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\BecauseFUCKYOU.pdb
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\BecauseFUCKYOU.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.FucksGiven.resources
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.Form1.resources
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.Resources.resources
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.exe
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.xml
+C:\Users\Server\Desktop\TwitchViewBot-master\BecauseFUCKYOU\obj\Debug\BecauseFUCKYOU.pdb
